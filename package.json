@@ -1,13 +1,13 @@
 {
   "name": "aldialauncher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "productName": "Aldia Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) , Rainharfer ",
   "license": "UNLICENSED",
   "homepage": "https://github.com/Rainharfer/AldiaLauncher",
   "bugs": {
-    "url": "https://github.com/Rainharfer/AldiaLauncher/pulls"
+    "url": "https://github.com/Rainharfer/AldiaLauncher/issues"
   },
   "private": true,
   "main": "index.js",
